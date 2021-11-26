@@ -1,0 +1,6 @@
+.demo_file.log
+.geckodriver.log
+.pytest_cache
+*.log
+__pycache__
+utilities/dummy_file.py
