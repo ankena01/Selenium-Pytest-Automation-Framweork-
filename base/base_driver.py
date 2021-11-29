@@ -40,3 +40,6 @@ class BaseDriver:
         return elements
 
 # lines added by SDET 1
+
+        def test_method(self):
+            print("Test method by SDET 1")
