@@ -39,3 +39,4 @@ class BaseDriver:
         elements = WebDriverWait(self.driver , 30).until(ec.visibility_of_any_elements_located((locator_type , by_locator)))
         return elements
 
+# lines added by SDET 1
