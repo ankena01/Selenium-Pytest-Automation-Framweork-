@@ -41,8 +41,3 @@ class BaseDriver:
 
 # lines added by SDET 1
 
-        def test_method(self):
-            print("Test method by SDET 1")
-
-        def test_method_2(self):
-            print("Second test method by SDET 1")
