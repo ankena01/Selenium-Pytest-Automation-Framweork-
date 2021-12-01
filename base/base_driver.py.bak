@@ -49,5 +49,5 @@ class BaseDriver:
         print("Function by sdet 1")
         
     def test_2_sdet_2(self):
-    print("Function by SDET 1")
+        print("Function by SDET 1")
     
