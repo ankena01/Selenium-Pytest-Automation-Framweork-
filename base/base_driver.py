@@ -41,3 +41,6 @@ class BaseDriver:
 
 # lines added by SDET 1
 
+    def test_sdet_3(self):
+        print("function to be merged to main branch by sdet_3")
+
