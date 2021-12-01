@@ -50,4 +50,7 @@ class BaseDriver:
         
     def test_2_sdet_2(self):
         print("Function by SDET 1")
+        
+       def new_func_sdet1():
+            pass
     
