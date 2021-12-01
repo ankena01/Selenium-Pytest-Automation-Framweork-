@@ -44,3 +44,6 @@ class BaseDriver:
     def test_sdet_3(self):
         print("function to be merged to main branch by sdet_3")
 
+    def test_1_sdet_3(self):
+        pass
+
