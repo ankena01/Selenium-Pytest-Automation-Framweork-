@@ -45,6 +45,9 @@ class BaseDriver:
     def test_1_sdet_3(self):
         pass
         
-    def test_1_sdet_1(self):
-        print("Function by sdet 1")
+<<<<<<< HEAD
+    def new_func_sdet1():
+        pass
+=======
+>>>>>>> e6c23d96a3c71a4c8abbdd0daa047d2450775f8b
     
